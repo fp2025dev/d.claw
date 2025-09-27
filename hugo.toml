@@ -1,4 +1,4 @@
-baseURL = 'https://d.claw.github.io'
+baseURL = 'https://d.claw.github.io/'
 languageCode = 'en-us'
 title = 'D. CLAW'
 theme = "ananke"
